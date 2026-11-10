@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+
+# Editor and tooling
+CLAUDE.md
+.claude/
+.mcp.json
+
+# macOS
+.DS_Store
